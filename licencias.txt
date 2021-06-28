@@ -1,16 +1,16 @@
 
 {
     "Anonimo1" : 
-        "IP" : "151.80.56.129"
+        "IP" : "UNDEFINED"
     },
     "Anonimo2" : 
         "IP" : "87.125.155.224"
     },
     "Anonimo3" : 
-        "IP" : "2.137.173.249"
+        "IP" : "UNDEFINED"
     },
     "Anonimo4" : 
-        "IP" : "141.94.61.129"
+        "IP" : "UNDEFINED"
     },
     "Anonimo5" : 
         "IP" : "UNDEFINED"
