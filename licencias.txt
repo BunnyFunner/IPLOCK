@@ -7,7 +7,7 @@
         "IP" : "217.113.250.12"
     },
     "Anonimo3" : 
-        "IP" : "UNDEFINED"
+        "IP" : "188.65.95.96"
     },
     "Anonimo4" : 
         "IP" : "UNDEFINED"
